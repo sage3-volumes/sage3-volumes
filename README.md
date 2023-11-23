@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sage3-volumes
 - 👀 I’m interested in knowledge
-- 🌱 I’m currently learning things from the not-closed internet
+- 🌱 I’m currently learning things from the not-inaccessible-to-any-humans internet
 - 💞️ I’m looking to collaborate on growing human knowledge
 - 📫 How to reach me = volumes <<at>> sage3.org
 
